@@ -1,6 +1,6 @@
 from pyrogram import Client, filters
 
-API_ID = 139960724
+API_ID = 39960724
 API_HASH = "46efe9cb75a86d0d558426f6aee23e2b"
 BOT_TOKEN = "8156123627:AAElHNSqsdgQ-e2B0sEfAbDs4b8CgQENPSk"
 
